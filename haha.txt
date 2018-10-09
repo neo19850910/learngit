@@ -1,1 +1,6 @@
 master!
+<<<<<<< Updated upstream
+=======
+asasas
+slave!
+>>>>>>> Stashed changes
